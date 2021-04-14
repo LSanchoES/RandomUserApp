@@ -1,6 +1,10 @@
 import React, { useState } from "react";
 import { useFetch } from "./Hooks/useFetch";
 
+//Hola gracias por mirar mi código :D --
+//Aquí está todo hecho en un componente pero lo he desglosado para
+//poder reutilizarlo!
+
 const App = () => {
 
     const [state, setState] = useState(1)
